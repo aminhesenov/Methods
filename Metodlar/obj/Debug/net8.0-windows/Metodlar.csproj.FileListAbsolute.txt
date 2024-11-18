@@ -1,0 +1,16 @@
+D:\C# dersleri\Metodlar\Metodlar\bin\Debug\net8.0-windows\Metodlar.exe
+D:\C# dersleri\Metodlar\Metodlar\bin\Debug\net8.0-windows\Metodlar.deps.json
+D:\C# dersleri\Metodlar\Metodlar\bin\Debug\net8.0-windows\Metodlar.runtimeconfig.json
+D:\C# dersleri\Metodlar\Metodlar\bin\Debug\net8.0-windows\Metodlar.dll
+D:\C# dersleri\Metodlar\Metodlar\bin\Debug\net8.0-windows\Metodlar.pdb
+D:\C# dersleri\Metodlar\Metodlar\obj\Debug\net8.0-windows\Metodlar.Form1.resources
+D:\C# dersleri\Metodlar\Metodlar\obj\Debug\net8.0-windows\Metodlar.csproj.GenerateResource.cache
+D:\C# dersleri\Metodlar\Metodlar\obj\Debug\net8.0-windows\Metodlar.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# dersleri\Metodlar\Metodlar\obj\Debug\net8.0-windows\Metodlar.AssemblyInfoInputs.cache
+D:\C# dersleri\Metodlar\Metodlar\obj\Debug\net8.0-windows\Metodlar.AssemblyInfo.cs
+D:\C# dersleri\Metodlar\Metodlar\obj\Debug\net8.0-windows\Metodlar.csproj.CoreCompileInputs.cache
+D:\C# dersleri\Metodlar\Metodlar\obj\Debug\net8.0-windows\Metodlar.dll
+D:\C# dersleri\Metodlar\Metodlar\obj\Debug\net8.0-windows\refint\Metodlar.dll
+D:\C# dersleri\Metodlar\Metodlar\obj\Debug\net8.0-windows\Metodlar.pdb
+D:\C# dersleri\Metodlar\Metodlar\obj\Debug\net8.0-windows\Metodlar.genruntimeconfig.cache
+D:\C# dersleri\Metodlar\Metodlar\obj\Debug\net8.0-windows\ref\Metodlar.dll
